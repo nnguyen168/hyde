@@ -11,3 +11,5 @@ tagline:          'A Machine Learning learner'
 description:      'I am a self-taught Machine Learning Engineer. I enjoy building projects about Machine Learning.'
 url:              https://nnguyen168.github.io/
 baseurl:          /
+
+version:          1.0
